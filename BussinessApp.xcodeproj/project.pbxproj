@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A0BC45B425D49F4A00EFB7AC /* ViewController2EletricBoogaloo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BC45B325D49F4A00EFB7AC /* ViewController2EletricBoogaloo.swift */; };
+		A0EAB12425F1A9D500633B8D /* ViewController3TheViewening.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0EAB12325F1A9D500633B8D /* ViewController3TheViewening.swift */; };
 		A0ECC5DA25B798CB00F5B6F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0ECC5D925B798CB00F5B6F9 /* AppDelegate.swift */; };
 		A0ECC5DC25B798CB00F5B6F9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0ECC5DB25B798CB00F5B6F9 /* SceneDelegate.swift */; };
 		A0ECC5DE25B798CB00F5B6F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0ECC5DD25B798CB00F5B6F9 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		A0BC45B325D49F4A00EFB7AC /* ViewController2EletricBoogaloo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2EletricBoogaloo.swift; sourceTree = "<group>"; };
+		A0EAB12325F1A9D500633B8D /* ViewController3TheViewening.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3TheViewening.swift; sourceTree = "<group>"; };
 		A0ECC5D625B798CB00F5B6F9 /* BussinessApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BussinessApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0ECC5D925B798CB00F5B6F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A0ECC5DB25B798CB00F5B6F9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 			children = (
 				A0ECC5D925B798CB00F5B6F9 /* AppDelegate.swift */,
 				A0ECC5DF25B798CB00F5B6F9 /* Main.storyboard */,
+				A0EAB12325F1A9D500633B8D /* ViewController3TheViewening.swift */,
 				A0ECC5DB25B798CB00F5B6F9 /* SceneDelegate.swift */,
 				A0ECC5DD25B798CB00F5B6F9 /* ViewController.swift */,
 				A0ECC5E225B798CD00F5B6F9 /* Assets.xcassets */,
@@ -265,6 +268,7 @@
 				A0ECC5DA25B798CB00F5B6F9 /* AppDelegate.swift in Sources */,
 				A0BC45B425D49F4A00EFB7AC /* ViewController2EletricBoogaloo.swift in Sources */,
 				A0ECC5DC25B798CB00F5B6F9 /* SceneDelegate.swift in Sources */,
+				A0EAB12425F1A9D500633B8D /* ViewController3TheViewening.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
