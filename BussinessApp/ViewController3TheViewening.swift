@@ -8,7 +8,9 @@
 import UIKit
 
 class ViewController3TheViewening: UIViewController {
-
+    @IBOutlet weak var profileImage: UIImageView!
+    @IBOutlet weak var logo: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
